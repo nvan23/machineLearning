@@ -24,15 +24,15 @@ Replace file name patch if you want to train your data
 My file name patch: filename = 'data/ovarian/ovarian.data'
 
 ### Resuls
-With 'sonar.all-data'
+* With 'sonar.all-data'
 Scores: [81.15942028985508, 69.56521739130434, 62.31884057971014]
 Mean Accuracy: 71.014%
 
-With 'data/spam/spam.data'
+* With 'data/spam/spam.data'
 Scores: [85.58382257012394, 82.32224396607958, 87.34507501630789]
 Mean Accuracy: 85.084%
 
-With 'data/ovarian/ovarian.data'
+* With 'data/ovarian/ovarian.data'
 Scores: [97.61904761904762, 100.0, 98.80952380952381]
 Mean Accuracy: 98.810%
 
