@@ -8,9 +8,9 @@ In this tutorial, you will discover how to implement the Perceptron algorithm fr
 
 After completing this tutorial, you will know:
 
-How to train the network weights for the Perceptron.
-How to make predictions with the Perceptron.
-How to implement the Perceptron algorithm for a real-world classification problem.
+* How to train the network weights for the Perceptron.
+* How to make predictions with the Perceptron.
+* How to implement the Perceptron algorithm for a real-world classification problem.
 
 This section provides a brief introduction to the Perceptron algorithm and the Sonar dataset to which we will later apply it.
 
@@ -45,4 +45,4 @@ Mean Accuracy: 98.810%
 ## More References
 * [Machine Learning Mastery](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/) - How To Implement The Perceptron Algorithm From Scratch In Python by Jason Brownlee on November 2, 2016
 
-Give me a star if it helps you
+## Give me a star if it helps you
